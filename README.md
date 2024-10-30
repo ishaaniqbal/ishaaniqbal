@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate and enhance my tech skills 
 - 📫 How to reach me ishaan.iqbal@hotmail.com
 - 📄 Know about my experiences on https://ishaaniqbal.github.io/Portfolio/
-- 💬 Ask me about Selenium, SDET, JAVA, API Testing ,POSTMAN, functional Testing.
+- 💬 Ask me about Selenium, JAVA, API Testing ,POSTMAN, functional Testing.
 - ⚡ Fun fact: ...
 
 <!---
