@@ -5,7 +5,7 @@
 - 📫 How to reach me ishaan.iqbal@hotmail.com
 - 📄 Know about my experiences on https://ishaaniqbal.github.io/Portfolio/
 - 💬 Ask me about Selenium, JAVA, API Testing ,POSTMAN, functional Testing.
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Making software reliable one automated test at a time!
 
 <!---
 ishaaniqbal/ishaaniqbal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
