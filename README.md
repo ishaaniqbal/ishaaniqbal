@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ishaaniqbal
-- 👀 I’m interested in software automation engineering 
+- 👀 I’m interested in software testing , creating robust and scalable test frameworks, enhancing software quality with ensuring seamless integration of applications
 - 🌱 I’m currently learning KARATE API Automation
 - 👯 I’m looking to collaborate and enhance my tech skills 
 - 📫 How to reach me ishaan.iqbal@hotmail.com
